@@ -14,6 +14,6 @@
 
 <style lang="scss" scoped>
     .selected-cocktail {
-        
+
     }
 </style>
