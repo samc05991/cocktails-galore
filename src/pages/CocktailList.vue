@@ -78,7 +78,7 @@
                 padding-top: 55px;
                 width: 175px;
                 height: 175px;
-                top: -198px;
+                top: -199px;
                 box-sizing: border-box;
                 text-align: center;
                 opacity: 0;
