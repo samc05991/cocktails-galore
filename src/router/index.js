@@ -7,12 +7,12 @@ Vue.use(VueRouter);
 
 const routes = [
     {
-        path: '/',
+        path: '/cocktails',
         name: 'CocktailList',
         component: CocktailList
     },
     {
-        path: '/selected-cocktail/:id',
+        path: '/cocktail/:id',
         name: 'SelectedCocktail',
         component: SelectedCocktail
     }

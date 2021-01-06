@@ -7,13 +7,12 @@
 <script>
     export default {
         name: 'Footer',
-        props: {},
     }
 </script>
 
 <style lang="scss" scoped>
     .footer {
-        background-color: var(--primary);
+        background-color: var(--primary-dark);
         color: white;
         padding: 5px 15px;
     }
